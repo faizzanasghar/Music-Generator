@@ -408,15 +408,4 @@ Contributions welcome! Please:
 2. Create a feature branch
 3. Submit a pull request
 
-## Support
 
-For issues and questions:
-- GitHub Issues: [link]
-- Documentation: [link]
-- Email: [your-email]
-
----
-
-**Made with ❤️ for musicians and AI enthusiasts**
-
-Built at FAST-NUCES for AI project research.
